@@ -1,0 +1,14 @@
+{
+    "name": "edha/autoload-composer",
+    "description": "Projet quete Composer",
+    "authors": [
+        {
+            "name": "eddyRAJA",
+            "email": "eddy-rajaonarivelo_student2021@wilder.school"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {"App\\": "src/"}
+    }
+}
